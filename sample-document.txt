@@ -1,0 +1,90 @@
+SAGAR BHOGAYTA
+Phone: +1 (123) 456-7890
+Email: sagar.bhogayta@email.com
+LinkedIn: linkedin.com/in/sagarbhogayta
+
+SUMMARY OF SKILLS AND QUALIFICATIONS
+• Proficient in full-stack web development with expertise in modern frameworks and technologies
+• Strong experience in developing RESTful APIs and optimizing database performance
+• Skilled in deploying web applications to cloud platforms (AWS, Azure)
+• Experienced in software development lifecycle (SDLC) and version control systems
+• Knowledgeable in DevOps practices including CI/CD pipelines and containerization
+• Proficient in performance monitoring and optimization using tools like Datadog
+
+TECHNICAL SKILLS
+Languages: JavaScript, Python, TypeScript, C#
+Frameworks & Libraries: React, Angular, Express.js, Nest.js, Flask, Django, Node.js
+Databases: MongoDB, MSSQL, NoSQL databases
+Cloud & Tools: AWS, Azure, Docker, Kubernetes, GitHub, Postman, Datadog
+
+EDUCATION
+Post Graduate Certificate in Web Development
+University of Technology - 2023
+
+Bachelor of Engineering in Computer Science
+Technical University - 2021
+
+PROFESSIONAL EXPERIENCE
+
+Full-Stack Developer (Remote)
+Tech Solutions Inc. | January 2023 - Present
+• Developed and maintained web applications using React and Node.js
+• Implemented RESTful APIs and database optimizations
+• Collaborated with cross-functional teams using Agile methodologies
+• Deployed applications to AWS cloud infrastructure
+
+Application Developer Intern (Co-op)
+Innovation Corp | May 2022 - December 2022
+• Built responsive web interfaces using Angular and TypeScript
+• Integrated third-party APIs and services
+• Participated in code reviews and testing procedures
+• Contributed to database design and optimization
+
+Web Developer
+Digital Creations | June 2021 - April 2022
+• Created dynamic web applications using modern JavaScript frameworks
+• Implemented user authentication and authorization systems
+• Optimized application performance and user experience
+• Maintained and updated existing web applications
+
+Web Developer Intern
+Startup Ventures | January 2021 - May 2021
+• Assisted in front-end development using HTML, CSS, and JavaScript
+• Learned modern development practices and tools
+• Contributed to team projects and code reviews
+• Gained experience with version control systems
+
+PROJECTS
+
+Speech Recognition Service
+• Developed a real-time speech-to-text conversion service
+• Implemented using Python and machine learning libraries
+• Integrated with web applications for accessibility features
+
+Best Manager Web Application
+• Built a comprehensive management system for businesses
+• Features include employee management, task tracking, and reporting
+• Developed using React frontend and Node.js backend
+
+Hospital Entry Management System
+• Created a digital system for hospital patient registration
+• Implemented secure data handling and user authentication
+• Built with Angular and integrated with healthcare databases
+
+CERTIFICATIONS
+• AWS Certified Developer Associate
+• Microsoft Azure Fundamentals
+• Docker Certified Associate
+• MongoDB Database Administrator
+
+LANGUAGES
+• English (Fluent)
+• Spanish (Intermediate)
+• French (Basic)
+
+INTERESTS
+• Open source contribution
+• Machine learning and AI
+• Cloud computing
+• Web accessibility
+• Performance optimization 
